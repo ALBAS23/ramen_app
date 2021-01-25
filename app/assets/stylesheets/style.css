@@ -270,7 +270,7 @@ ul, li {
   margin-left: 50px;
 }
 
-input[type="text"], select {
+input[type="text"], input[type="email"], input[type="password"],select {
   width: 92%;
   height: 50px;
   margin-left: 4%;
@@ -280,6 +280,7 @@ input[type="text"], select {
   border-radius: 10px;
   background-color: rgb(247,247,247);
 }
+
 
 .form-submit {
   text-align: center;
